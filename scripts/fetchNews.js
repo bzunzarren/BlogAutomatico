@@ -118,3 +118,9 @@ console.log('✅ Agendador de notícias iniciado! Ele rodará todos os dias às 
 
 
 main(); // Executar imediatamente ao iniciar o script
+
+
+//deve baixar e rodar : PS C:\Users\Romulo-03\Downloads\blog> node --experimental-modules ./scripts/fetchNews.js
+
+//npm install axios @supabase/supabase-js dotenv node-cron}
+//node --experimental-modules ./scripts/fetchNews.js
